@@ -1,0 +1,8 @@
+node_modules
+dist
+.impeccable/review
+
+# local tooling, not part of the app
+unslop/
+.impeccable/
+.claude/settings.local.json
